@@ -90,7 +90,7 @@ namespace CegepSciences
         }
         #endregion Potential energy & Potential
 
-        #region Current & Resistancy
+        #region Current & Resistance
 
         float IntensityPerSecond(float chargeDifference, float timeDifference)
         {
